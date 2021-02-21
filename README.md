@@ -5,8 +5,8 @@
 
 | the pages       | 
 | -----------     | 
-| [the mindset page ](https://github.com/aliwalid96/reading-notes/blob/main/mindset.md)    | 
-|   [the markdown  ](https://github.com/aliwalid96/reading-notes/blob/main/markDown.md)   |
-   [what i learned ](https://github.com/aliwalid96/reading-notes/blob/main/fromlearning.md)   |
+| [the mindset page ](https://aliwalid96.github.io/reading-notes/mindset)    | 
+|   [the markdown  ](https://aliwalid96.github.io/reading-notes/markDown)   |
+   [what i learned ](https://aliwalid96.github.io/reading-notes/fromlearning)   |
 
 
