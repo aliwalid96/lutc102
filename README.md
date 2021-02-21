@@ -6,5 +6,4 @@
 | the pages       | 
 | -----------     | 
 | [the mindset page ](https://github.com/aliwalid96/reading-notes/blob/main/mindset.md)    | 
-
 |   [the markdown  ](https://github.com/aliwalid96/reading-notes/blob/main/markDown.md)  |
