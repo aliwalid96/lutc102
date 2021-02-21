@@ -7,6 +7,7 @@
 | -----------     | 
 | [the mindset page ](https://aliwalid96.github.io/reading-notes/mindset)    | 
 |   [the markdown  ](https://aliwalid96.github.io/reading-notes/markDown)   |
-   [what i learned ](https://aliwalid96.github.io/reading-notes/fromlearning)   |
+|   [what i learned ](https://aliwalid96.github.io/reading-notes/fromlearning)   |
+|   [about git  ](https://aliwalid96.github.io/reading-notes/aboutGit)   |
 
 
