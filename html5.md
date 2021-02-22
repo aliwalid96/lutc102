@@ -17,7 +17,7 @@ in the footer you can put the copy right
 
 and we have the
  ### article
-The article element acts as a container for any section of a page that could stand alone and potentially be syndicated.
+The article element acts as a container for any section of a page that could stand alone and potentially be syndicated
 
 ### Article
 The aside element has two purposes, depending on whether it is inside an article element or not.
