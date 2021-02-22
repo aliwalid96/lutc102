@@ -3,7 +3,8 @@
 HTML5 is introducing a new set of
 tags  that help define the structure of
 a page. 
-such as ##### div
+such as
+ ##### div
 its like a block
 the html have many thing for the page  new such as
  ### the header 
@@ -19,11 +20,11 @@ and we have the
 The article element acts as a container for any section of a page that could stand alone and potentially be syndicated.
 
 ### Article
-The <aside> element has two purposes, depending on whether it is inside an <article> element or not.
+The aside element has two purposes, depending on whether it is inside an article element or not.
 ### Sections
-The <section> element groups related content together, and typically each section would have its own heading.
+The section element groups related content together, and typically each section would have its own heading.
 ### hgroup
-The purpose of the <hgroup> element is to group together a set of one or more <h1> through <h6> elements so that they are
+The purpose of the hgroup element is to group together a set of one or more h1 through h6 elements so that they are
 treated as one single heading.
 
 
